@@ -29,3 +29,8 @@ A Python-based Smart Attendance System that uses Computer Vision and Face Recogn
 6. Save attendance records in a CSV file.
 
 ## Folder Structure
+│── Images/ # Registered face images
+│── Attendance/ # Generated attendance CSV files
+│── main.py # Main application
+│── requirements.txt
+│── README.md
